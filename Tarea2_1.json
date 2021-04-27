@@ -1,10 +1,10 @@
 [
 {"name":"luis", "hobby":"videojuegos"},
-{"name":"luis", "hobby":"videojuegos"},
-{"name":"luis", "hobby":"videojuegos"},
-{"name":"luis", "hobby":"videojuegos"},
-{"name":"luis", "hobby":"videojuegos"},
-{"name":"luis", "hobby":"videojuegos"},
-{"name":"luis", "hobby":"videojuegos"},
-{"name":"luis", "hobby":"videojuegos"}
+{"name":"jorge", "hobby":"videojuegos"},
+{"name":"michel", "hobby":"programar"},
+{"name":"andres", "hobby":"leer"},
+{"name":"liz", "hobby":"dibujar"},
+{"name":"andrea", "hobby":"cantar"},
+{"name":"jesus", "hobby":"trabajar"},
+{"name":"reynaldo", "hobby":"construir"}
 ]
