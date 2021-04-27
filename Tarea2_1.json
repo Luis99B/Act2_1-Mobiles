@@ -1,10 +1,10 @@
 [
-{"name":"luis", "hobby":"videojuegos"},
-{"name":"jorge", "hobby":"videojuegos"},
-{"name":"michel", "hobby":"programar"},
-{"name":"andres", "hobby":"leer"},
-{"name":"liz", "hobby":"dibujar"},
-{"name":"andrea", "hobby":"cantar"},
-{"name":"jesus", "hobby":"trabajar"},
-{"name":"reynaldo", "hobby":"construir"}
+{"name":"luis", "age":21, "hobby":{"videojuegos","programar"}},
+{"name":"jorge", "age":21, "hobby":{"videojuegos","jugar"}},
+{"name":"michel", "age":21, "hobby":{"investigar","videojuegos"}},
+{"name":"andres", "age":22, "hobby":{"leer","programar"}},
+{"name":"liz", "age":20, "hobby":{"cantar","dibujar"}},
+{"name":"andrea", "age":20, "hobby":{"leer","escribir"}},
+{"name":"jesus", "age":20, "hobby":{"dibujar","leer"}},
+{"name":"reynaldo", "age":22, "hobby":{"hablar","construir"}}
 ]
